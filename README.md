@@ -1,2 +1,2 @@
-# R 3.5 or higher required to install BiocManager and DNAcopy
+# R 3.6 or higher strongly recommended to install BiocManager and DNAcopy
 # Full instructions for dependencies and prerequisites -> https://github.com/etal/cnvkit
