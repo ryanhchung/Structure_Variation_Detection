@@ -1,0 +1,16 @@
+AMC-15LT-004_1.fastq.gz AMC-15LT-004_2.fastq.gz
+AMC-17LT-005_1.fastq.gz AMC-17LT-005_2.fastq.gz
+AMC-17LT-007_1.fastq.gz AMC-17LT-007_2.fastq.gz
+AMC-17LT-014_1.fastq.gz AMC-17LT-014_2.fastq.gz
+AMC-17LT-031_1.fastq.gz AMC-17LT-031_2.fastq.gz
+AMC-17LT-032_1.fastq.gz AMC-17LT-032_2.fastq.gz
+AMC-18LT-001_1.fastq.gz AMC-18LT-001_2.fastq.gz
+AMC-18LT-010_1.fastq.gz AMC-18LT-010_2.fastq.gz
+AMC-18LT-031_1.fastq.gz AMC-18LT-031_2.fastq.gz
+AMC-18LT-042_1.fastq.gz AMC-18LT-042_2.fastq.gz
+AMC-19LT-020_1.fastq.gz AMC-19LT-020_2.fastq.gz
+AMC-19LT-027_1.fastq.gz AMC-19LT-027_2.fastq.gz
+AMC-19LT-038_1.fastq.gz AMC-19LT-038_2.fastq.gz
+AMC-19LT-042_1.fastq.gz AMC-19LT-042_2.fastq.gz
+AMC-19LT-058_1.fastq.gz AMC-19LT-058_2.fastq.gz
+AMC-19LT-061_1.fastq.gz AMC-19LT-061_2.fastq.gz
