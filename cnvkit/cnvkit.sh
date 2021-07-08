@@ -39,4 +39,4 @@ echo "process 2 start"
 python /data/Programs/cnvkit/cnvkit.py batch --drop-low-coverage ${tumor_bam} -r $cnvdir/${T_prefix}/${prefix}.cnn -p 8 --scatter --diagram -d $cnvdir/${T_prefix}/
 
 
-#Execute commandline -> cat sample.txt | while read tumor normal;do echo bash cnvkit.sh $tumor $normal;done
+#Execute commandline -> cat sample.txt | while read tumor normal;do bash cnvkit.sh $tumor $normal;done
