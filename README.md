@@ -1,1 +1,2 @@
-# Copy number variation analysis (CNVkit), Fusion analysis (STAR-Fusion)
+# Copy number variation analysis (CNVkit)
+# Fusion analysis (STAR-Fusion)
